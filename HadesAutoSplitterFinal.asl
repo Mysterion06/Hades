@@ -32,7 +32,7 @@ split
 {
     if(((old.roomID == 10 || old.roomID == 8 || old.roomID == 11) && current.roomID == 27 && vars.split == 0) // Tartarus
     ||
-    (current.roomID == 28 && old.roomID == 13 && vars.split == 1) // Asphodel
+    (current.roomID == 11 && old.roomID == 28 && vars.split == 1) // Asphodel
     ||
     (current.roomID == 28 && old.roomID == 25 && vars.split == 2) // Elysium
     ||
