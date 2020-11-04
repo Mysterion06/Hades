@@ -1,6 +1,6 @@
 state("Hades") {
     string10 timeDisplay : "EngineWin64s.dll", 0x006AC5C0, 0xD8, 0x10, 0x78, 0x78, 0x8, 0x588, 0xC70, 0x18;
-    int roomID: "EngineWin64s.dll", 0x68ED74;
+    int roomID: "EngineWin64s.dll", 0x692D74;
 }
 
 startup {
